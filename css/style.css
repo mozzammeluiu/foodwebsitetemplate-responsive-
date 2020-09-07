@@ -1,0 +1,20 @@
+.test {
+  margin: 20px;
+  background: red;
+}
+
+.main {
+  border: 2px solid black;
+  color: green;
+}
+.main a {
+  color: red;
+}
+.main a:hover {
+  color: green;
+}
+.main:hover ~ .main-1 {
+  color: yellow;
+}
+
+/*# sourceMappingURL=style.css.map */

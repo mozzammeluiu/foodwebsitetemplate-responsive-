@@ -1,0 +1,57 @@
+#navbar {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#navbar ul li a {
+  font-size: 1rem;
+  padding: 0px 7px;
+  padding-bottom: 8px;
+}
+
+#home {
+  padding: 3px 28px;
+  height: 262px;
+}
+
+#home p {
+  font-size: 13px;
+}
+
+#services {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#clients {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+#clients .client-item {
+  padding: 34px;
+}
+
+#clients .client-item img {
+  width: 66px;
+  padding: 6px;
+  height: auto;
+}
+
+#contactUs-box form {
+  width: 80%;
+}
+
+.h-primary {
+  font-size: 26px;
+}
+
+.btn {
+  font-size: 13px;
+  padding: 4px 8px;
+}
+/*# sourceMappingURL=phone.css.map */
